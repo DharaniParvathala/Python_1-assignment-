@@ -1,0 +1,5 @@
+myfile=open("file.txt","w+")
+myfile.write("Python is object oriented programming language")
+#myfile.close()
+myfile=open("file.txt","w+")
+print(myfile.read())

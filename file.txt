@@ -1,0 +1,3 @@
+Python is object oriented programming language
+Python is interpreted language
+Python is interpreted language
